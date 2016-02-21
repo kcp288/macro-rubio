@@ -1,6 +1,6 @@
 # Macro Rubio
 
-![Macro for Marco](/promo/promo.png)
+![Macro for Marco](/promo/promo_img .jpg)
 
 Chrome extension that changes your political news from a dystopian wasteland to something waaay better, this time about the 2016 presidential race's hottest candidate. Keep on clickin' to switch up the pics of Marco!
 
